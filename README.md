@@ -4,6 +4,7 @@ Quartus project to play MIDI files on Altera FPGA (EP4CE6E22C8N on Zr-Tech WXEDA
 This project implements logic to play MIDI file via my development board using the buzzer.
 
 The script to extract ROMs from MIDI is copied from this project: https://github.com/abbati-simone/Midi-to-ROM
+
 I used these modules on this project: https://github.com/abbati-simone/Yoshis-Nightmare-Altera
 
 There are three Verilog modules:
