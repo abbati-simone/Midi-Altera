@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at display_top.v(73): always construct contains both blocking and non-blocking assignments File: /home/abbakus/2ndhome/abbakus/Develop/src/Midi-Altera/src/modules/display_top.v Line: 73
+Warning (10268): Verilog HDL information at display_top.v(87): always construct contains both blocking and non-blocking assignments File: /home/abbakus/2ndhome/abbakus/Develop/src/Midi-Altera/src/modules/display_top.v Line: 87

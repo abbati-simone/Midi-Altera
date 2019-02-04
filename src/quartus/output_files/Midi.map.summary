@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Feb  2 16:02:53 2019
+Quartus Prime Version : 16.1.2 Build 203 01/18/2017 SJ Lite Edition
+Revision Name : Midi
+Top-level Entity Name : top_module_Mario
+Family : Cyclone IV E
+Total logic elements : 336
+    Total combinational functions : 336
+    Dedicated logic registers : 175
+Total registers : 175
+Total pins : 2
+Total virtual pins : 0
+Total memory bits : 69,936
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

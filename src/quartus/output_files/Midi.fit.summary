@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Feb  2 16:03:03 2019
+Quartus Prime Version : 16.1.2 Build 203 01/18/2017 SJ Lite Edition
+Revision Name : Midi
+Top-level Entity Name : top_module_Mario
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 349 / 6,272 ( 6 % )
+    Total combinational functions : 336 / 6,272 ( 5 % )
+    Dedicated logic registers : 175 / 6,272 ( 3 % )
+Total registers : 175
+Total pins : 2 / 92 ( 2 % )
+Total virtual pins : 0
+Total memory bits : 69,936 / 276,480 ( 25 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
